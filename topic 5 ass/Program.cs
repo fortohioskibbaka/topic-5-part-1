@@ -19,6 +19,7 @@ namespace topic_5_ass
             if (planet == 1)
             {
                 Console.WriteLine("on venus your weaight would be  " + earthweaight * 0.78 + "LB");
+                Console.WriteLine("you got this win your fight");
 
 
 
@@ -27,6 +28,7 @@ namespace topic_5_ass
             else if (planet == 2)
             {
                 Console.WriteLine("on mars your weaight would be  " + earthweaight * 0.39 + "LB");
+                Console.WriteLine("you got this win your fight");
 
 
 
@@ -36,25 +38,28 @@ namespace topic_5_ass
 
 
                 Console.WriteLine("on jupiter your weaight would be " + earthweaight * 2.65 + "LB");
+                Console.WriteLine("you got this win your fight");
 
 
 
             }
-           else if ((planet == 4)){
+            else if ((planet == 4)){
 
 
 
 
 
                 Console.WriteLine("on saturn your weaight would be " + earthweaight * 1.17 + "LB");
+                Console.WriteLine("you got this win your fight");
 
             }
 
-           else if (((planet == 5))){
+            else if (((planet == 5))){
 
                 Console.WriteLine("on uranus your weaight would be " + earthweaight * 1.05 + "LB");
 
 
+                Console.WriteLine("you got this win your fight");
 
 
 
@@ -70,7 +75,7 @@ namespace topic_5_ass
 
 
 
-
+                Console.WriteLine("you got this win your fight");
 
 
             }
